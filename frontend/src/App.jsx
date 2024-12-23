@@ -9,7 +9,7 @@ import MyProfile from "./pages/MyProfile";
 import MyApponiment from "./pages/MyApponiment";
 import Apponiment from "./pages/Apponiment";
 import Navbar from "./component/Navbar";
-import Footer from "./component/footer";
+import Footer from "./component/Footer";
 const App = () => {
   return (
     <div className="mx-4 sm:mx-[10%]">

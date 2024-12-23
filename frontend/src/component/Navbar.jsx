@@ -5,7 +5,7 @@ const Navbar = () => {
   const navigate = useNavigate();
 
   // if you're not using it, comment it out or remove it
-  // const [showMenu, setShowMenu] = useState(false);
+  const [showMenu, setShowMenu] = useState(false);
   
   const [token, SetToken] = useState(true);
   return (

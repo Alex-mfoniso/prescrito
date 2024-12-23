@@ -9,7 +9,7 @@ import MyProfile from "./pages/MyProfile";
 import MyAppointments from "./pages/MyAppointments";
 import Appointment from "./pages/Appointment";
 import Navbar from "./component/Navbar";
-import Footer from "./component/footer";
+import Footer from "./component/Footer";
 
 const App = () => {
   return (
